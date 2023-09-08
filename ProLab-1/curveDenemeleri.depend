@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1604170348 source:c:\users\kaank\desktop\curvedenemeleri\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<dos.h>
+
